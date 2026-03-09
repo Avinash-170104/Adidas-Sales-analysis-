@@ -1,5 +1,6 @@
-Adidas Sales Analysis – Power BI Dashboard
-📊 Project Overview
+## Adidas Sales Analysis – Power BI Dashboard
+## 📊 Project Overview
+
 This project presents a comprehensive Sales Performance Analysis of Adidas using Power BI. The dashboard provides insights into total sales, operating profit, units sold, pricing trends, and regional performance.
 The goal of this analysis is to:
 Track overall business performance
@@ -8,20 +9,24 @@ Analyze monthly sales trends
 Evaluate retailer contributions
 Support data-driven decision making
 
-📌 Key Metrics (KPIs)
+## 📌 Key Metrics (KPIs)
+
 $900M – Total Sales
 $332M – Operating Profit
 2M Units – Total Units Sold
 $45.22 – Average Price per Unit
 42% – Average Operating Margin
 
-📈 Dashboard Features
-1️⃣ Total Sales by Month
+## 📈 Dashboard Features
+
+## 1️⃣ Total Sales by Month
+
 Monthly sales trend visualization
 Identifies peak and low sales periods
 Helps analyze seasonal patterns
 
-2️⃣ Total Sales by Region
+## 2️⃣ Total Sales by Region
+
 Donut chart showing sales distribution across:
 West
 Northeast
@@ -30,7 +35,8 @@ South
 Midwest
 Helps identify high-performing geographic regions
 
-3️⃣ Total Sales by Product
+## 3️⃣ Total Sales by Product
+
 Bar chart comparison of:
 Men's Street Footwear
 Women's Apparel
@@ -40,7 +46,8 @@ Men's Apparel
 Women's Athletic Footwear
 Highlights best-selling product categories
 
-4️⃣ Total Sales by Retailer
+## 4️⃣ Total Sales by Retailer
+
 Sales comparison across:
 West Gear
 Foot Locker
@@ -49,17 +56,20 @@ Kohl’s
 Amazon
 Walmart
 Evaluates retailer contribution
-🎛 Filters Available
+
+## 🎛 Filters Available
 Region Filter
 Invoice Date Range Filter
 These slicers allow dynamic and interactive analysis.
-🛠 Tools Used
+
+## 🛠 Tools Used
 Power BI Desktop
 Data Modeling
 DAX Measures
 Interactive Visualizations
 
-📂 Dataset Information
+## 📂 Dataset Information
+
 The dataset includes:
 Invoice Date
 Region
@@ -70,21 +80,28 @@ Sales Amount
 Operating Profit
 Price per Unit
 
-🚀 How to Use
+## 🚀 How to Use
+
 Open the .pbix file in Power BI Desktop.
 Use the slicers (Region & Invoice Date) to filter data.
 Hover over charts to view detailed insights.
 Analyze KPIs at the top for overall performance.
 
-📌 Business Insights
+## 📌 Business Insights
+
 West region contributes the highest sales share.
 Men's Street Footwear is the top-performing product category.
 Sales peak around mid-year and year-end months.
 Retailers like West Gear and Foot Locker drive major revenue.
-📎 Future Improvements
-Add Year-over-Year comparison
+
+## 📎 Future Improvements
+ 
+ Add Year-over-Year comparison
 Include Profit by Product analysis
 Add Forecasting using Power BI analytics
 Create Drill-through pages for deeper insights
+## DAshboard preview
+![WhatsApp Image 2026-03-02 at 12 52 01](https://github.com/user-attachments/assets/58a2b0ba-55ca-4160-adf2-a8d26fcb7ddc)
 
-👤 Author - Avinash Kumar.S 
+## 👤 Author 
+## - Avinash Kumar.S 
